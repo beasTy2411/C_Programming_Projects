@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 
 void main()
 {
@@ -29,4 +30,8 @@ void main()
     }
     printf("%d", remainingSeconds);
     
+
+    printf("\nPress any key to continue...");
+
+    getch();
 }

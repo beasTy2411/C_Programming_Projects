@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 
 void main()
 {
@@ -58,6 +59,9 @@ void main()
         break;
     }
 
-    printf("The next day is: %d/ %d/ %d", day, month, year);
+    printf("The next day is: %d/ %d/ %d\n", day, month, year);
     
+    printf("\nPress any key to continue...");
+
+    getch();
 }

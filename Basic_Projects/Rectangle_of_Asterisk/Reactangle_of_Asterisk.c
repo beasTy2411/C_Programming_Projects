@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 
 void main()
 {
@@ -18,4 +19,8 @@ void main()
         }
         printf("\n");
     }
+
+    printf("\nPress any key to continue...");
+
+    getch();
 }

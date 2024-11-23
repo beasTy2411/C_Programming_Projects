@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 
 void main()
 {
@@ -47,9 +48,11 @@ void main()
             break;
         
         default: 
-        printf("Please enter a valid month number.");
+        printf("Please enter a valid month number.\n");
             break;
     }
     
-    
+    printf("\nPress any key to continue...");
+
+    getch();
 }

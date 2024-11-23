@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 
 void main()
 {
@@ -30,4 +31,8 @@ void main()
             printf("The point lies in the IIIrd Quadrant.");
         }
     }
+
+    printf("\nPress any key to continue...");
+
+    getch();
 }
