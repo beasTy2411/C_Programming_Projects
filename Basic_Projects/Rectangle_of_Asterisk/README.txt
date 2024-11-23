@@ -1,0 +1,1 @@
+This is a program which takes the input from the user and prints a rectangle of asterisk of given rows and columns
