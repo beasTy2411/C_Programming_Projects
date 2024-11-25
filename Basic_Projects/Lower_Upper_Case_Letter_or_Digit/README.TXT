@@ -1,0 +1,1 @@
+This program takes a character as input and prints whether the character is upper case, lower case, number or other character.
