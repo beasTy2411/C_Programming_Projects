@@ -1,1 +1,1 @@
-This folder contains basic projects in C programming language.
+This folder contains projects in C programming language that I have practised while learning.
