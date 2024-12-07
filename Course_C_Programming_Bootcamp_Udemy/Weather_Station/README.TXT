@@ -1,0 +1,1 @@
+This program takes temperature for 7 days as an input from the user and prints the average temperature, hottest day of the week and coldest day of the week.

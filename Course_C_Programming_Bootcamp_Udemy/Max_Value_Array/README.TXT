@@ -1,0 +1,1 @@
+This program takes a phone number (array) as an input and prints the highest digit present in it.
