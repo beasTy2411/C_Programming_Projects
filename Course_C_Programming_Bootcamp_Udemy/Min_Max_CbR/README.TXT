@@ -1,0 +1,1 @@
+This programm take 2 numbers as input from the user and passes the value by reference to function to find and display the min and max numbers out of the provide 2 numbers.

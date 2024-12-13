@@ -1,0 +1,1 @@
+This program duplicates a array and makes its copy after reversing.
