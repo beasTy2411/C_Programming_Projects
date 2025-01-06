@@ -1,0 +1,1 @@
+This program counts the length of the string entered by user.

@@ -1,0 +1,1 @@
+This program counts the number of character in a string.

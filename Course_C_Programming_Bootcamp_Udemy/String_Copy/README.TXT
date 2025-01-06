@@ -1,0 +1,1 @@
+This program copies content from one string to another string.

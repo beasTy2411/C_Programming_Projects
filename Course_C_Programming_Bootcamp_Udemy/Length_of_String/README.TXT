@@ -1,0 +1,1 @@
+This program finds and print the length of the string given by the user.
