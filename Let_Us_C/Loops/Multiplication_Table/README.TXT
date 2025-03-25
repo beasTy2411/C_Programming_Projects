@@ -1,1 +1,0 @@
-This program takes a number as an input from the user a prints a multiplication table of that number.

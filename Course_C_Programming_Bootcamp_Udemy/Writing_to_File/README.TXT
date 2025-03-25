@@ -1,0 +1,1 @@
+This program writes number from 1 to 10 and their squares to the file.

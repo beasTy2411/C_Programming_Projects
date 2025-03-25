@@ -1,1 +1,0 @@
-This program prints the 24 hours of a day with suitable suffix like AM, PM, Noon and Midnight
