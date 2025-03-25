@@ -1,0 +1,1 @@
+This is a simple code to demonstrate the functionality of Head Recursion
