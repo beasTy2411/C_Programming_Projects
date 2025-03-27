@@ -1,0 +1,1 @@
+This function takes and input form the user and provides an output of natural numbers by using recursion, formula and loop.

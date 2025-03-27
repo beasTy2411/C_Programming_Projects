@@ -1,0 +1,2 @@
+This program takes a number and its power as input and  provides the number multiply it by itself for the number of power times by using recursion and loops.
+This demonstrate the working of a recursive function. 
