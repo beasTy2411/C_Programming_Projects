@@ -1,0 +1,2 @@
+This program take a positive nnumber as an input and print the Fibbonaci Series to the nth term as result.
+This code has two method of printing the series. One is the for loop while the other is a recursive function.
