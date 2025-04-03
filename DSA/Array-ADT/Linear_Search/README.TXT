@@ -1,0 +1,1 @@
+This code demonstrate the working of linear search ina a normal way and two improved methods named - Transposition and Move to Head/Front

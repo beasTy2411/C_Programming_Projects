@@ -1,0 +1,1 @@
+This code demonstrate the deleting of an element from an array.
