@@ -1,0 +1,1 @@
+This code demonstrate the working of binary search on Arrays using loops and recursive method.
