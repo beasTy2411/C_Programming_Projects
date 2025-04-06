@@ -1,0 +1,2 @@
+This code demonstrate the merging of tow sorted arrays. The code compares the element to find the smaller one and then add it in the new array. 
+Considering that there are no smae element present in the arrays.

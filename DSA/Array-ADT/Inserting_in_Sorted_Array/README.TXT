@@ -1,0 +1,1 @@
+This code demonstrate the inserting of an element inside a sorted array.
