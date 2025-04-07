@@ -1,0 +1,1 @@
+This code demonstrate finding a missing element from a sorted array.

@@ -1,0 +1,1 @@
+This code demonstrate how to find duplicate in a sorted array.
