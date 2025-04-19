@@ -1,0 +1,1 @@
+This codes demonstrate how words can be counted in a senctence and also deals with the exception of white spaces.

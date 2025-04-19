@@ -1,0 +1,1 @@
+This program checks if the given string is valid or not by checking if there are any elements present other than alphanumeric elements.

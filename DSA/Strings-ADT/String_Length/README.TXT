@@ -1,0 +1,1 @@
+This code demonstrate the counting of characters in a string and printing the length of the string.

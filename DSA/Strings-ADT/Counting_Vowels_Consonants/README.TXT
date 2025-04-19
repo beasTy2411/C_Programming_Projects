@@ -1,0 +1,1 @@
+This code counts the vowels and consonants in a given string.
